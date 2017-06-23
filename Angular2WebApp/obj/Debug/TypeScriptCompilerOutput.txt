@@ -1,0 +1,6 @@
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\Angular2WebApp\app\app.component.js
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\Angular2WebApp\app\app.component.js.map
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\Angular2WebApp\app\app.module.js
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\Angular2WebApp\app\app.module.js.map
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\Angular2WebApp\app\main.js
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\Angular2WebApp\app\main.js.map
