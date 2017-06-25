@@ -12,6 +12,7 @@ namespace EntityFrameworkConsoleApp
         public string Name { get; set; }
         public int UnitInStock { get; set; }
         public decimal UnitPrice { get; set; }
+        public string Category {get; set;}
     }
 
     public class Customer
@@ -27,5 +28,6 @@ namespace EntityFrameworkConsoleApp
         public int Id { get; set; }
         public int CustomerId { get; set; }
         public DateTime OrderDate { get; set; }
+        public decimal Total { get; set; }
     }
 }

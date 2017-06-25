@@ -13,7 +13,9 @@ namespace EntityFrameworkConsoleApp
             #region RESTRICTION OPERATORS
 
             RestrictionOperators roObj = new RestrictionOperators();
-            roObj.Linq1();
+            //roObj.Linq1();
+
+            roObj.Linq2();
 
             #endregion
 
