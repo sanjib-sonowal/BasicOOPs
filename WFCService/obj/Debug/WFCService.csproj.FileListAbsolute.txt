@@ -1,0 +1,4 @@
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\WFCService\bin\Debug\WFCService.dll
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\WFCService\bin\Debug\WFCService.pdb
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\WFCService\obj\Debug\WFCService.dll
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\WFCService\obj\Debug\WFCService.pdb
