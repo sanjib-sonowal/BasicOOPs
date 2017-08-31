@@ -1,0 +1,12 @@
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\DPCustomerProjectConsoleApp\bin\Debug\DPCustomerProjectConsoleApp.exe.config
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\DPCustomerProjectConsoleApp\bin\Debug\CustomerDB.mdf
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\DPCustomerProjectConsoleApp\bin\Debug\CustomerDB_log.ldf
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\DPCustomerProjectConsoleApp\bin\Debug\DPCustomerProjectConsoleApp.exe
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\DPCustomerProjectConsoleApp\bin\Debug\DPCustomerProjectConsoleApp.pdb
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\DPCustomerProjectConsoleApp\bin\Debug\EntityFramework.dll
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\DPCustomerProjectConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\DPCustomerProjectConsoleApp\bin\Debug\EntityFramework.xml
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\DPCustomerProjectConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\DPCustomerProjectConsoleApp\obj\Debug\DPCustomerProjectConsoleApp.csprojResolveAssemblyReference.cache
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\DPCustomerProjectConsoleApp\obj\Debug\DPCustomerProjectConsoleApp.exe
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\DPCustomerProjectConsoleApp\obj\Debug\DPCustomerProjectConsoleApp.pdb

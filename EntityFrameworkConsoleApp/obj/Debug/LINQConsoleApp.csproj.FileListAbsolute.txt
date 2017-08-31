@@ -1,0 +1,12 @@
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\EntityFrameworkConsoleApp\obj\Debug\EntityFrameworkConsoleApp.exe
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\EntityFrameworkConsoleApp\obj\Debug\EntityFrameworkConsoleApp.pdb
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\EntityFrameworkConsoleApp\bin\Debug\SzTestDB.mdf
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\EntityFrameworkConsoleApp\bin\Debug\SzTestDB_log.ldf
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\EntityFrameworkConsoleApp\bin\Debug\EntityFrameworkConsoleApp.exe.config
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\EntityFrameworkConsoleApp\bin\Debug\EntityFrameworkConsoleApp.exe
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\EntityFrameworkConsoleApp\bin\Debug\EntityFrameworkConsoleApp.pdb
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\EntityFrameworkConsoleApp\bin\Debug\EntityFramework.dll
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\EntityFrameworkConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\EntityFrameworkConsoleApp\bin\Debug\EntityFramework.xml
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\EntityFrameworkConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\EntityFrameworkConsoleApp\obj\Debug\LINQConsoleApp.csprojResolveAssemblyReference.cache

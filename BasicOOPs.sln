@@ -1,15 +1,25 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26403.7
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPConsoleApp", "OOPConsoleApp\OOPConsoleApp.csproj", "{2C231B29-30AD-4070-A032-4D15F1241AF7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkConsoleApp", "EntityFrameworkConsoleApp\EntityFrameworkConsoleApp.csproj", "{413F7E24-CB57-4C17-A3E1-7630FB9891A7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQConsoleApp", "EntityFrameworkConsoleApp\LINQConsoleApp.csproj", "{413F7E24-CB57-4C17-A3E1-7630FB9891A7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angular2WebApp", "Angular2WebApp\Angular2WebApp.csproj", "{06375641-76FF-453E-8861-48AA25FA69BB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFCService", "WFCService\WFCService.csproj", "{CC563660-A602-47A7-9DB8-5FF9C222F9CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFConsoleApp", "EFConsoleApp\EFConsoleApp.csproj", "{5459D184-A33E-4AE6-BD0E-CC0581103470}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPCustomerProjectClient", "DPCustomerProjectClient\DPCustomerProjectClient.csproj", "{96670517-F992-4B0F-AB4A-0E94306BBA00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPCustomerProjectBusinessLayer", "DPCustomerProjectBusinessLayer\DPCustomerProjectBusinessLayer.csproj", "{21ACCEE1-F10F-47DF-8801-27FCACE16B93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPCustomerProjectFactory", "DPCustomerProjectFactory\DPCustomerProjectFactory.csproj", "{51D2A50F-2332-482C-A942-87436D989158}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPCustomerProjectConsoleApp", "DPCustomerProjectConsoleApp\DPCustomerProjectConsoleApp.csproj", "{FF948451-9B37-4842-B589-0004F6B833F7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +43,26 @@ Global
 		{CC563660-A602-47A7-9DB8-5FF9C222F9CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC563660-A602-47A7-9DB8-5FF9C222F9CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC563660-A602-47A7-9DB8-5FF9C222F9CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5459D184-A33E-4AE6-BD0E-CC0581103470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5459D184-A33E-4AE6-BD0E-CC0581103470}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5459D184-A33E-4AE6-BD0E-CC0581103470}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5459D184-A33E-4AE6-BD0E-CC0581103470}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96670517-F992-4B0F-AB4A-0E94306BBA00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96670517-F992-4B0F-AB4A-0E94306BBA00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96670517-F992-4B0F-AB4A-0E94306BBA00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96670517-F992-4B0F-AB4A-0E94306BBA00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21ACCEE1-F10F-47DF-8801-27FCACE16B93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21ACCEE1-F10F-47DF-8801-27FCACE16B93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21ACCEE1-F10F-47DF-8801-27FCACE16B93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21ACCEE1-F10F-47DF-8801-27FCACE16B93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51D2A50F-2332-482C-A942-87436D989158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51D2A50F-2332-482C-A942-87436D989158}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51D2A50F-2332-482C-A942-87436D989158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51D2A50F-2332-482C-A942-87436D989158}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF948451-9B37-4842-B589-0004F6B833F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF948451-9B37-4842-B589-0004F6B833F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF948451-9B37-4842-B589-0004F6B833F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF948451-9B37-4842-B589-0004F6B833F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

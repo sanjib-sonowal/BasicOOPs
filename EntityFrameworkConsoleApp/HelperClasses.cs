@@ -9,7 +9,7 @@ namespace EntityFrameworkConsoleApp
 {
     public static class HelperClasses
     {
-        public static IEnumerable Combine(this IEnumerable first, IEnumerable second, /*Func func*/)
+        public static IEnumerable Combine(this IEnumerable first, IEnumerable second /*Func func*/)
         {
             //using (IEnumerator e1 = first.GetEnumerator(), e2 = second.GetEnumerator())
             //{

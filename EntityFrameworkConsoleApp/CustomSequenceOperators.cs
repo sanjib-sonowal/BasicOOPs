@@ -16,9 +16,9 @@ namespace EntityFrameworkConsoleApp
             int[] vectorA = { 0, 2, 4, 5, 6 };
             int[] vectorB = { 1, 3, 5, 7, 8 };
 
-            int dotProduct = vectorA.Combine(vectorB, (a, b) => a * b).Sum();
+           // int dotProduct = vectorA.Combine(vectorB, (a, b) => a * b).Sum();
 
-            Console.WriteLine("Dot product: {0}", dotProduct);
+            Console.WriteLine("Dot product: {0}", 0 /*dotProduct*/);
         }
     }
 }

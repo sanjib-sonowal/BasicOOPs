@@ -1,0 +1,36 @@
+﻿# DESIGN PATTERNS
+
+CREATIONAL PATTERNS
+1. Abstract Factory. [DONE]
+2. Builder.
+3. Factory Method. [DONE]
+4. Prototype. [DONE]
+5. Singleton. [DONE]
+
+STRUCTURAL PATTERNS
+1. Adapter. [DONE]
+2. Bridge.
+3. Composite. [DONE]
+4. Decorator. [DONE]
+5. Facade. [DONE]
+6. Flyweiht.
+7. Proxy.
+
+BEHAVIOURAL PATTERNS
+1. Chain of Resp.
+2. Command. [DONE]
+3. Interpreter.
+4. Iterator. [DONE]
+5. Mediator.
+6. Memento. [DONE]
+7. Observer. [DONE]
+8. State.
+9. Strategy. [DONE]
+10. Template Method. [DONE]
+11. Visitor.
+
+.NET OPTIMIZED
+1. Lazy Loading and Eager Loading Design Pattern.  [DONE]
+2. Null Object Pattern.  [DONE]
+
+3. Static Class vs Singleton

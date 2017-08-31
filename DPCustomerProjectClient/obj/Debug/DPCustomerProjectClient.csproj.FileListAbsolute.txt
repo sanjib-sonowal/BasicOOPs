@@ -1,0 +1,13 @@
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\DPCustomerProjectClient\bin\Debug\DPCustomerProjectClient.exe.config
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\DPCustomerProjectClient\bin\Debug\DPCustomerProjectClient.exe
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\DPCustomerProjectClient\bin\Debug\DPCustomerProjectClient.pdb
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\DPCustomerProjectClient\obj\Debug\DPCustomerProjectClient.csprojResolveAssemblyReference.cache
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\DPCustomerProjectClient\obj\Debug\DPCustomerProjectClient.Properties.Resources.resources
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\DPCustomerProjectClient\obj\Debug\DPCustomerProjectClient.csproj.GenerateResource.Cache
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\DPCustomerProjectClient\obj\Debug\DPCustomerProjectClient.exe
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\DPCustomerProjectClient\obj\Debug\DPCustomerProjectClient.pdb
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\DPCustomerProjectClient\bin\Debug\DPCustomerProjectBusinessLayer.dll
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\DPCustomerProjectClient\bin\Debug\DPCustomerProjectBusinessLayer.pdb
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\DPCustomerProjectClient\obj\Debug\DPCustomerProjectClient.frmCustomer.resources
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\DPCustomerProjectClient\bin\Debug\DPCustomerProjectFactory.dll
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\DPCustomerProjectClient\bin\Debug\DPCustomerProjectFactory.pdb

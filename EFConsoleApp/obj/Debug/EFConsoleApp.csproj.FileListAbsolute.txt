@@ -1,0 +1,14 @@
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\EFConsoleApp\bin\Debug\EFConsoleApp.exe.config
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\EFConsoleApp\bin\Debug\EFConsoleApp.exe
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\EFConsoleApp\bin\Debug\EFConsoleApp.pdb
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\EFConsoleApp\obj\Debug\EFConsoleApp.exe
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\EFConsoleApp\obj\Debug\EFConsoleApp.pdb
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\EFConsoleApp\bin\Debug\Data\EmployeeDB.mdf
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\EFConsoleApp\bin\Debug\Data\EmployeeDB_log.ldf
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\EFConsoleApp\bin\Debug\EmployeeDB.mdf
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\EFConsoleApp\bin\Debug\EmployeeDB_log.ldf
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\EFConsoleApp\bin\Debug\EntityFramework.dll
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\EFConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\EFConsoleApp\bin\Debug\EntityFramework.xml
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\EFConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\EFConsoleApp\obj\Debug\EFConsoleApp.csprojResolveAssemblyReference.cache

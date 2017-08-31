@@ -7,10 +7,8 @@ D:\Projects\Microsoft\Console\OOP\OOPConsoleApp\obj\Debug\OOPConsoleApp.pdb
 D:\Projects\Microsoft\Console\OOP\BasicOOPs\OOPConsoleApp\bin\Debug\OOPConsoleApp.exe.config
 D:\Projects\Microsoft\Console\OOP\BasicOOPs\OOPConsoleApp\bin\Debug\OOPConsoleApp.exe
 D:\Projects\Microsoft\Console\OOP\BasicOOPs\OOPConsoleApp\bin\Debug\OOPConsoleApp.pdb
-D:\Projects\Microsoft\Console\OOP\BasicOOPs\OOPConsoleApp\obj\Debug\OOPConsoleApp.csprojResolveAssemblyReference.cache
 D:\Projects\Microsoft\Console\OOP\BasicOOPs\OOPConsoleApp\obj\Debug\OOPConsoleApp.exe
 D:\Projects\Microsoft\Console\OOP\BasicOOPs\OOPConsoleApp\obj\Debug\OOPConsoleApp.pdb
 D:\Projects\Microsoft\Console\OOP\BasicOOPs\OOPConsoleApp\bin\Debug\EntityFramework.dll
-D:\Projects\Microsoft\Console\OOP\BasicOOPs\OOPConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
 D:\Projects\Microsoft\Console\OOP\BasicOOPs\OOPConsoleApp\bin\Debug\EntityFramework.xml
-D:\Projects\Microsoft\Console\OOP\BasicOOPs\OOPConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\OOPConsoleApp\obj\Debug\OOPConsoleApp.csprojResolveAssemblyReference.cache

@@ -16,7 +16,6 @@ namespace OOPConsoleApp
     /// </summary>
     public class Print
     {
-
         public void display(string name)
         {
             Console.WriteLine("Your name is : " + name);

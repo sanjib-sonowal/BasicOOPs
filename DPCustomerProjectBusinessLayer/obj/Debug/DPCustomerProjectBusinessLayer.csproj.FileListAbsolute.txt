@@ -1,0 +1,10 @@
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\DPCustomerProjectPhase1\obj\Debug\DPCustomerProjectBusinessLayer.csprojResolveAssemblyReference.cache
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\DPCustomerProjectPhase1\bin\Debug\DPCustomerProjectBusinessLayer.dll
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\DPCustomerProjectPhase1\bin\Debug\DPCustomerProjectBusinessLayer.pdb
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\DPCustomerProjectPhase1\obj\Debug\DPCustomerProjectBusinessLayer.dll
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\DPCustomerProjectPhase1\obj\Debug\DPCustomerProjectBusinessLayer.pdb
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\DPCustomerProjectBusinessLayer\bin\Debug\DPCustomerProjectBusinessLayer.dll
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\DPCustomerProjectBusinessLayer\bin\Debug\DPCustomerProjectBusinessLayer.pdb
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\DPCustomerProjectBusinessLayer\obj\Debug\DPCustomerProjectBusinessLayer.csprojResolveAssemblyReference.cache
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\DPCustomerProjectBusinessLayer\obj\Debug\DPCustomerProjectBusinessLayer.dll
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\DPCustomerProjectBusinessLayer\obj\Debug\DPCustomerProjectBusinessLayer.pdb

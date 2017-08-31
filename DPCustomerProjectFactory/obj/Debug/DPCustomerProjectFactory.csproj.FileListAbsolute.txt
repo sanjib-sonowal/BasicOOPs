@@ -1,0 +1,7 @@
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\DPCustomerProjectFactory\bin\Debug\DPCustomerProjectFactory.dll
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\DPCustomerProjectFactory\bin\Debug\DPCustomerProjectFactory.pdb
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\DPCustomerProjectFactory\bin\Debug\DPCustomerProjectBusinessLayer.dll
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\DPCustomerProjectFactory\bin\Debug\DPCustomerProjectBusinessLayer.pdb
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\DPCustomerProjectFactory\obj\Debug\DPCustomerProjectFactory.csprojResolveAssemblyReference.cache
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\DPCustomerProjectFactory\obj\Debug\DPCustomerProjectFactory.dll
+D:\Projects\Microsoft\Console\OOP\BasicOOPs\DPCustomerProjectFactory\obj\Debug\DPCustomerProjectFactory.pdb
